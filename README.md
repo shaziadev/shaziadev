@@ -8,6 +8,8 @@ I currently work as a Full-Stack Developer at **[Arrivy](https://www.arrivy.com)
 - LinkedIn: [linkedin.com/in/shazia-abbas-b37622309](https://www.linkedin.com/in/shazia-abbas-b37622309)
 - Email: [shaiza.abbas777@gmail.com](mailto:shaiza.abbas777@gmail.com)
 
+Open to Full-Stack Developer roles.
+
 ### Tech stack
 
 **Languages**
@@ -51,6 +53,7 @@ I currently work as a Full-Stack Developer at **[Arrivy](https://www.arrivy.com)
 **Testing & Tools**
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -61,9 +64,9 @@ I currently work as a Full-Stack Developer at **[Arrivy](https://www.arrivy.com)
 | --- | --- | --- |
 | [**TaskFlow**](https://github.com/shaziadev/taskflow) | Kanban-style team project manager with JWT auth, role-based access, drag-and-drop boards and Celery email reminders | Django, DRF, React, PostgreSQL, Celery, Redis, Docker |
 | [**ShopLite**](https://github.com/shaziadev/shoplite) | E-commerce store with products, cart, orders, Stripe checkout (test mode), admin inventory panel, search and pagination | Node.js, Express, MongoDB, React, Stripe, Tailwind CSS, Jest |
-| [**DevOps Pipeline**](https://github.com/shaziadev/django-react-devops-pipeline) | CI/CD for a Django + React app: tests and linting on every PR, Docker images deployed to EC2 on merge, Nginx with HTTPS | Docker, GitHub Actions, Nginx, AWS EC2 |
+| [**DevOps Pipeline**](https://github.com/shaziadev/django-react-devops-pipeline) | CI/CD for a Django + React app: tests and linting on every PR, Docker images pushed to GHCR, a deploy job to EC2 over SSH (switched on per environment), Nginx with HTTPS | Docker, GitHub Actions, Nginx, AWS EC2 |
 
 ### Education & certification
 
-- **MIT**, 2019 – 2021
-- **AI Engineering**, PNY Trainings (Instructor: Afra Kareem)
+- **Master of Information Technology (MIT)**, University of the Punjab, Lahore, 2019 – 2021
+- **AI Engineering**, PNY Trainings
