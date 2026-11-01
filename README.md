@@ -63,13 +63,6 @@ I currently work as a Full-Stack Developer at **[Arrivy](https://www.arrivy.com)
 | [**ShopLite**](https://github.com/shaziadev/shoplite) | E-commerce store with products, cart, orders, Stripe checkout (test mode), admin inventory panel, search and pagination | Node.js, Express, MongoDB, React, Stripe, Tailwind CSS, Jest |
 | [**DevOps Pipeline**](https://github.com/shaziadev/django-react-devops-pipeline) | CI/CD for a Django + React app: tests and linting on every PR, Docker images deployed to EC2 on merge, Nginx with HTTPS | Docker, GitHub Actions, Nginx, AWS EC2 |
 
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shaziadev&show_icons=true&hide_border=true" alt="Shazia's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaziadev&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
 ### Education & certification
 
 - **MIT**, 2019 – 2021
