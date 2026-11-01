@@ -68,5 +68,5 @@ Open to Full-Stack Developer roles.
 
 ### Education & certification
 
-- **Master of Information Technology (MIT)**, University of the Punjab, Lahore, 2019 – 2021
+- **MIT**, University of the Punjab, Lahore, 2019 – 2021
 - **AI Engineering**, PNY Trainings
